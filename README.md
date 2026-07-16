@@ -151,4 +151,4 @@ IFT 211 – Digital Logic Design
 
 Miva Open University
 
-2025
+2026
